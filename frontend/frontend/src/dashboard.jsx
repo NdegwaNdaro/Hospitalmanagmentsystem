@@ -68,3 +68,4 @@ const Dashboard = ({ patients, doctors, appointments, bills }) => {
     </div>
   );
 };
+export default Dashboard;

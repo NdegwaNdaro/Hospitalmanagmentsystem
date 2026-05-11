@@ -76,4 +76,4 @@ function PatientForm({ onSubmit }) {
   );
 }
 
-export default PatientForm;``
+export default PatientForm;
